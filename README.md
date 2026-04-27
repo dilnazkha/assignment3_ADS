@@ -102,21 +102,6 @@ It also tests two input types:
 - Random arrays
 - Sorted arrays
 
-Example output format:
-
-| Size | Input Type | Selection Sort (ns) | Merge Sort (ns) | Binary Search (ns) |
-|---:|---|---:|---:|---:|
-| 10 | Random | Add your result | Add your result | Add your result |
-| 10 | Sorted | Add your result | Add your result | Add your result |
-| 100 | Random | Add your result | Add your result | Add your result |
-| 100 | Sorted | Add your result | Add your result | Add your result |
-| 1000 | Random | Add your result | Add your result | Add your result |
-| 1000 | Sorted | Add your result | Add your result | Add your result |
-| 5000 | Random | Add your result | Add your result | Add your result |
-| 5000 | Sorted | Add your result | Add your result | Add your result |
-
-
-
 ---
 
 ## Analysis
@@ -131,8 +116,7 @@ Binary Search requires a sorted array because it decides whether to search the l
 ---
 
 ## D. Screenshots
-![Program Output](docs/screenshots/img.png)
-
+![img.png](img.png)
 
 
 
